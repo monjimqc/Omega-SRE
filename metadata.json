@@ -1,0 +1,6 @@
+{
+  "name": "Omega SRE",
+  "description": "Autonomous System Reliability, DevSecOps & Observability Control Suite",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

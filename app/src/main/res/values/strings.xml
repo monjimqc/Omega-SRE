@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Omega SRE</string>
+    <string name="tab_dashboard">Telemetry</string>
+    <string name="tab_security">Security</string>
+    <string name="tab_protocol">Protocol</string>
+    <string name="tab_ledger">Evidence Ledger</string>
+    <string name="system_health_title">System Reliability Score</string>
+    <string name="run_protocol_audit">Execute OMEGA Protocol</string>
+    <string name="memory_usage">RAM Consumption</string>
+    <string name="battery_health">Battery State</string>
+    <string name="storage_usage">Storage Utilization</string>
+    <string name="network_status">Network Connectivity</string>
+    <string name="security_integrity">Integrity Posture</string>
+    <string name="clear_history">Clear Ledger</string>
+    <string name="empty_ledger_title">No Audit Runs Yet</string>
+    <string name="empty_ledger_desc">Execute an OMEGA-AELR protocol run to record cryptographic evidence.</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Crest (centered within 66dp safe zone) -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,24 L78,34 C78,57 66,74 54,82 C42,74 30,57 30,34 Z" />
+    <!-- Inner Dark Shield -->
+    <path
+        android:fillColor="#0A1128"
+        android:pathData="M54,28 L74,36.5 C74,55 64,69 54,76 C44,69 34,55 34,36.5 Z" />
+    <!-- Reliability Heartbeat Pulse / ECG Line in vibrant Emerald (#00FF87) -->
+    <path
+        android:pathData="M37,53 L45,53 L48,44 L52,62 L56,48 L59,55 L61,53 L71,53"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00FF87"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <!-- Pulse Center Core Dot -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,34 A2,2 0 1,1 54,38 A2,2 0 1,1 54,34 Z" />
+</vector>
